@@ -2,7 +2,7 @@ package LinkedList;
 
 /**
  An interface that describes the operations of a bag of objects.
- @author Frank M. Carrano
+ @author Brett Sullivan
  @version 4.0
  */
 public interface BagInterface<T>
